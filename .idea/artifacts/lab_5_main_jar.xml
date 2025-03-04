@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="lab_5.main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/lab_5_main_jar</output-path>
+    <root id="archive" name="lab_5.main.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/out/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="lab_5.main" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.36.0/227d4d4957ccc3dc5761bd897e3a0ee587e750a7/error_prone_annotations-2.36.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.12.1/4e773a317740b83b43cfc3d652962856041697cb/gson-2.12.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
